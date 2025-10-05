@@ -1,0 +1,17 @@
+# Ignore Python virtual environment
+qna-backend/.venv/
+qna-backend/.venv/*
+
+# Ignore environment variables file
+qna-backend/.env
+
+# Ignore Python cache and system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+.DS_Store
