@@ -67,12 +67,12 @@ GEMINI_API_KEY=your_real_gemini_key_here
 GEMINI_MODEL=gemini-2.5-flash
 
 DB_USER=postgres
-DB_PASSWORD=root
+DB_PASSWORD=
 DB_HOST=localhost
-DB_PORT=5432
-DB_NAME=QNA
+DB_PORT=
+DB_NAME=
 
-FRONTEND_URL=http://localhost:8501
+FRONTEND_URL=
 ```
 
 ---
