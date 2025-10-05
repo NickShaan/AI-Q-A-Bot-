@@ -137,6 +137,3 @@ streamlit run streamlit_app.py
 - Add CI tests and auto deployments.
 
 ---
-
-## Screenshot (Placeholder)
-![App Screenshot](docs/screenshot.png)
